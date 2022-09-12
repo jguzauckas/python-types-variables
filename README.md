@@ -1,0 +1,1 @@
+This repository has select sample Python code to help you understand the basic types of variables and their select operations.
