@@ -23,6 +23,7 @@ print(b - c)
 print (c * d)
 print(d / e)
 print(b // a)
+print(d % a)
 print(a ** c)
 
 #not True, True and False, True or False

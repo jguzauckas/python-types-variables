@@ -10,7 +10,7 @@ print(a + b) #Note that this just prints the sum, that's okay!
 
 
 #Next lets do some operations. Using print, your variables, and your operations, do
-#16 + 35, 35 - 13.2, 13.2 * 23.6, 23.6 / 16, 35 // 16, 16 ** 13.2
+#16 + 35, 35 - 13.2, 13.2 * 23.6, 23.6 / 16, 35 // 16, 23.6 % 16, 16 ** 13.2
 
 
 #not True, True and False, True or False
