@@ -1,14 +1,18 @@
 This repository has select sample Python code to help you understand the basic types of variables and their select operations.
 
-The following files contain sample code to help you understand the concepts:
-- basictypes.py
-- numberoperations.py
-- booleanoperations.py
-- stringoperations.py
+Each component has two files with similar names. One is a markdown file (`.md`) and the other is a Python file (`.py`).
 
-I have created the classwork.py file for you to complete as classwork, demonstrating knowledge from the above files. The classwork.txt file shows you what your output should look like for classwork.py.
-To get help or more thoroughly check your own answers, check out the classworkcompleted.py file, which has the same requirements completed.
+The markdown file has formatted notes describing concepts and talking about sample code. All of the sample code snippets are found in the Python file for you to be able to run, and modify.
 
-For homework, complete the homework.py file by meeting each of the described requirements.
+The recommended order for information is:
 
-Make sure with your homework and classwork you commit and push so that I can see your progress!
+1. basic types
+2. number operations
+3. boolean operations
+4. string operations
+
+Once you've gone through those notes and code samples, try the classwork.py file, which offers some problems for you to program a solution for!
+
+To check your "answers", check out the classwork.txt file which is a sample output for the classwork file based on my own solution, which is also provided in classworkcompleted.py.
+
+Finally, give homework.py a try with some additional problems!
